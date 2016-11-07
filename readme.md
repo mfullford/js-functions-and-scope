@@ -97,7 +97,7 @@ hello();
 => hello there
 ```
 
-#### First-order Functions
+#### Higher-order Functions
 
 
 A function can be passed as an argument to another function:
