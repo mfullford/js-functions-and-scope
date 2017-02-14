@@ -6,7 +6,7 @@ Adapted by: Zeb Girouard
 
 ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)
 
-<!-- 9:50 5 minutes -->
+<!-- 9:55 5 minutes -->
 
 <!--Hook
 	- I'm going to start class with a potentially offensive statement: Computers are slaves.
@@ -43,7 +43,7 @@ Adapted by: Zeb Girouard
 
 <!-- CFU Fist-to-five on these three points -->
 
-<!--9:55 10 minutes -->
+<!--10:00 10 minutes -->
 
 ## Keep your code DRY using Functions
 
@@ -118,7 +118,7 @@ shout('world!', sayHello);
 
 <!--[CFU] Think-pair-share: What is the difference between an anonymous and named function?-->
 
-<!--10:05 15 minutes -->
+<!--10:10 15 minutes -->
 
 ## Compilation
 
@@ -189,7 +189,7 @@ Here's a quick summary of what your computer does when you're looking to run you
 
 <!-- CFU: Think-pair-share, what is the process to turn your JavaScript code into 0s and 1s -->
 
-<!--10:20 20 minutes -->
+<!--10:25 20 minutes -->
 
 ## Building Scope
 
@@ -372,7 +372,7 @@ wdi.whatsTheName();
 
 <!--[CFU] Catchphrase - partner up and pick function, scope, or variable-->
 
-<!--10:40 15 minutes -->
+<!--10:45 15 minutes -->
 
 ## Independent Practice
 
@@ -415,7 +415,7 @@ number is the length of the corresponding string.
 	-Summarize var binds to nearest function block, let to nearest enclosing block
 -->	
 
-<!--10:55 5 minutes -->
+<!--11:00 5 minutes -->
 
 ## Conclusion
 
