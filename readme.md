@@ -339,7 +339,7 @@ A function's `this` keyword is always referring to the current **context**. It i
 
 #### This in the Global context
 
-In the global scope, this refers to the global object:
+In the global scope, `this` refers to the global object:
 
 ```javascript
 this === window
