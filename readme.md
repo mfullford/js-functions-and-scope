@@ -7,6 +7,7 @@ Adapted by: Zeb Girouard
 ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)
 
 <!--Actually 9:59 -->
+<!--9:47 WDI4 -->
 <!-- 9:55 5 minutes -->
 
 <!--Hook
@@ -45,6 +46,7 @@ Adapted by: Zeb Girouard
 <!-- CFU Fist-to-five on these three points -->
 
 <!--10:01 -->
+<!--9:50 WDI4 -->
 <!--10:00 10 minutes -->
 
 ## Keep your code DRY using Functions
@@ -120,6 +122,7 @@ shout('world!', sayHello);
 
 <!--[CFU] Think-pair-share: What is the difference between an anonymous and named function?-->
 
+<!--ACtually 10:16 -->
 <!--Actually 10:15 -->
 <!--10:10 15 minutes -->
 
@@ -193,6 +196,7 @@ Here's a quick summary of what your computer does when you're looking to run you
 <!-- CFU: Think-pair-share, what is the process to turn your JavaScript code into 0s and 1s -->
 
 <!--10:30 -->
+<!--10:29 WDI4 -->
 <!--10:25 20 minutes -->
 
 ## Building Scope
@@ -260,6 +264,8 @@ Declare `removeYears` in Global scope.
 Declare these in the function's scope.
 
 ![removeYears](https://i.imgur.com/cA6kaw5.png)
+
+<!--10:39 WDI4 -->
 
 ## The Terminology of Scope
 
@@ -377,6 +383,7 @@ wdi.whatsTheName();
 <!--[CFU] Catchphrase - partner up and pick function, scope, or variable-->
 
 <!--Actually 10:54 -->
+<!--10:55 WDI4 -->
 <!--10:45 15 minutes -->
 
 ## Independent Practice
@@ -413,7 +420,7 @@ number is the length of the corresponding string.
 	wordReverse("Put Hans back on the line")
 	# => "line the on back Hans Put"
 	```	
-<!--Actually 11:11 -->
+<!--Actually 11:11 to start going over solutions-->
 <!--11:00 5 minutes -->
 
 ## Conclusion
@@ -424,6 +431,7 @@ The only way to master JavaScript scope is to practice. You'll have a lot of con
 - Explain what happens before JavaScript code is executed.
 - Explain the difference between local and global scope.
 
+<!--11:14 after exercise solutions WDI4 -->
 <!--Finally ended 11:19 after going through exercise solutions -->
 
 For more details about functions and scope, click [here](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions).
