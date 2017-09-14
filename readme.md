@@ -260,8 +260,8 @@ Declare `getFullName` in the `displayPerson` function scope.
 10. Found `removeYears` variable declaration.
 Declare `removeYears` in Global scope.
  - `removeYears` is a function; an inner scope is created.
-11. Found age and `minusYears` variable declarations.  
-Declare these in the function's scope.
+11. Found `age` and `minusYears` variable declarations.  
+Declare these in the `removeYears` function's scope.
 
 ![removeYears](https://i.imgur.com/cA6kaw5.png)
 
