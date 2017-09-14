@@ -4,7 +4,8 @@
   number is the length of the corresponding string.
 */
 
-// your code here
+var hey = ["what" + "up"]
+lengths(hey)
 
 /*
   2. Write a Javascript function called `transmogrifier`
@@ -14,7 +15,11 @@
   Your function should return the "transmogrified" result.
 */
 
-// your code here
+function transmogrifier() {
+  a = 7,
+  b = 2,
+  c = 1;
+}
 
 /*
   3. Write a function `wordReverse` that accepts a single argument, a string. The method should return a string with the order of the words (not letters) reversed. Don't worry
