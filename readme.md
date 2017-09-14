@@ -285,9 +285,9 @@ Global scope can be really confusing when you run into namespace clashes. You wo
 
 Local scope refers to any scope that is defined inside the global one. If you define a function, this function will have its own scope inside the body of the function. Any function defined inside another function also has a local scope and can refer to the parent scope, but this logic doesn't work the other way around.
 
-#### Function scope - can't get inside!
+#### Function scope - can't get something inside the box!
 
-A variable defined inside a function *cannot* be accessed outside the function. For instance:
+A variable defined inside a function *cannot* be accessed from outside the function. For instance:
 
 ```javascript
 var a = "this is the global scope";
@@ -300,7 +300,7 @@ alert(b);
 
 This will throw a reference error because the variable `b` is not accessible outside of the function where it is defined.
 
-#### Accessing variables in the same scope
+#### Function scope - but you can get something outside the box!
 
 In the logic defined above, the fact that a variable cannot be accessed by the parent scope works only in one way.
 
