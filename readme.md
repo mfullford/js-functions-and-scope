@@ -75,9 +75,9 @@ function speak(words) {
 
 The difference is subtle but important. The first function declaration is assigning an "anonymous" function to a variable. The second function declaration is a named function. The practical difference is that the named function will be processed when the code is interpreted, so the function can be called *before* it's defined. This is due to [variable hoisting](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/var#var_hoisting), the first `speak` variable is hoisted up as `undefined`, while the second is hoisted up as a `function`.
 
-No matter what syntax you use, a function always has:
+No matter what syntax you use, a function has:
 
-- A name
+- A name (if not anonymous)
 - An optional list of parameters - or information to use - defined by the parenthesis before the opening curly brace
 - Statements inside the function - this is the code executed every time the function is called
 
